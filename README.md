@@ -1,6 +1,6 @@
 A Python script to automatically sort and organize files by type.
+#opensource #utility 
 # Auto File Organizer
-
 A simple Python script to automatically organize files in a folder by type — images, documents, videos, music, and more.
 
 ##  Features 
