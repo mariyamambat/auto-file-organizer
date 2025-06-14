@@ -1,4 +1,4 @@
-# auto-file-organizer
+<img width="1676" alt="BEFORE" src="https://github.com/user-attachments/assets/d48aac93-fa6d-411d-ac44-a3930f8e0c08" /># auto-file-organizer
 A Python script to automatically sort and organize files by type.
 # Auto File Organizer
 
@@ -52,5 +52,10 @@ Downloads/
 │   └── song.mp3
 ├── Videos/
 │   └── video.mov
+## screenshot of an example
+before:
+<img width="1676" alt="BEFORE" src="https://github.com/user-attachments/assets/0784248d-96bd-4c38-a51c-eb775202f307" />
 
+Here’s how the folder looks *after* running the script:
+<img width="1680" alt="AFTER" src="https://github.com/user-attachments/assets/1d3e8556-892d-4251-808a-2baa8c7e44cd" />
 Made by Mariyam – because I hate digital clutter.
