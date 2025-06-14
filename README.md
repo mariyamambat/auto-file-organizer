@@ -1,4 +1,3 @@
-<img width="1676" alt="BEFORE" src="https://github.com/user-attachments/assets/d48aac93-fa6d-411d-ac44-a3930f8e0c08" /># auto-file-organizer
 A Python script to automatically sort and organize files by type.
 # Auto File Organizer
 
