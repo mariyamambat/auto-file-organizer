@@ -5,11 +5,11 @@ from datetime import datetime
 # File type mapping
 FILE_TYPES = {
     'Images': ['.jpg', '.jpeg', '.png', '.gif', '.bmp'],
-    'Documents': ['.pdf', '.docx’, '.txt’, '.xlsx’, '.pptx'],
-    'Videos': ['.mp4’, '.mov’, '.avi’, '.mkv'],
-    'Music': ['.mp3’, '.wav’, '.aac'],
-    'Archives': ['.zip’, '.rar’, '.tar’, '.gz'],
-    'Scripts': ['.py’, '.js’, '.html’, '.css']
+    'Documents': ['.pdf', '.docx', '.txt', '.xlsx', '.pptx'],
+    'Videos': ['.mp4', '.mov', '.avi', '.mkv'],
+    'Music': ['.mp3', '.wav', '.aac'],
+    'Archives': ['.zip', '.rar', '.tar', '.gz'],
+    'Scripts': ['.py', '.js', '.html', '.css']
 }
 
 def organize_files(folder_path):
