@@ -27,7 +27,7 @@ A simple Python script to automatically organize files in a folder by type — i
 2. Run it using Python 3:
 
 ```bash
-python auto_organizer.py
+python3 auto_organizer.py
 3.Enter the path of the folder you want to organize.
 
 4.Let the script sort your chaos.
