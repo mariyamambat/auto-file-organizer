@@ -50,11 +50,6 @@ Downloads/
 ├── Videos/
 │   └── video.mov
 ```
-## screenshot of an example
-*before*
-<img width="1676" alt="BEFORE" src="https://github.com/user-attachments/assets/9acd1f23-d391-4688-8b24-fa4b00258c9f" />
 
-Here’s how the folder looks *after* running the script:
-<img width="1680" alt="AFTER" src="https://github.com/user-attachments/assets/daf9534a-25ce-4a5a-84cb-76d17a201d61" />
 
 Made by Mariyam – because I hate digital clutter.
